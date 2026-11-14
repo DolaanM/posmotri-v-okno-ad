@@ -1,1 +1,1 @@
-https://github.com/DolaanM/ono-tebe-nado-ad
+https://github.com/DolaanM/posmotri-v-okno-ad
